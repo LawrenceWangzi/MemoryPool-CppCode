@@ -92,7 +92,7 @@ void TestCentralCache()
 		cout << v[i] << endl;
 	}
 }
-
+//
 void TestPageCache()
 {
 	PageCache::GetInstence()->NewSpan(2);
